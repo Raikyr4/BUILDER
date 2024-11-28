@@ -67,7 +67,3 @@ Pizza - Tamanho: pequena, Massa: recheada, Ingredientes: Queijo, Frango, Milho
 
 - **TypeScript**
 - **Node.js**
-
---- 
-
-Este README é mais conciso e inclui instruções para executar o projeto e exemplos claros da saída esperada.
