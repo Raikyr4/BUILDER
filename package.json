@@ -1,0 +1,14 @@
+{
+  "name": "factory-method-files",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de arquivos usando o padrão Factory Method em TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "author": "Raiky",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
